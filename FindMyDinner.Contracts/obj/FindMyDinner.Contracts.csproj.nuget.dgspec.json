@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Contracts\\FindMyDinner.Contracts.csproj": {}
+  },
+  "projects": {
+    "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Contracts\\FindMyDinner.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Contracts\\FindMyDinner.Contracts.csproj",
+        "projectName": "FindMyDinner.Contracts",
+        "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Contracts\\FindMyDinner.Contracts.csproj",
+        "packagesPath": "C:\\Users\\A337318\\.nuget\\packages\\",
+        "outputPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A337318\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://maven2.it.volvo.net/repository/sma-nuget/": {},
+          "http://nexus.it.volvo.net/repository/drs-ms-core/": {},
+          "http://nexus.it.volvo.net/repository/nuget-drs-ms": {},
+          "http://nuget.it.volvo.net/api/v2": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mavenqa.got.volvo.net:8443/repository/NVS": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Domain.Infrastracture\\FindMyDinner.Domain.Infrastracture.csproj": {
+                "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Domain.Infrastracture\\FindMyDinner.Domain.Infrastracture.csproj"
+              },
+              "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj": {
+                "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Domain.Infrastracture\\FindMyDinner.Domain.Infrastracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Domain.Infrastracture\\FindMyDinner.Domain.Infrastracture.csproj",
+        "projectName": "FindMyDinner.Domain.Infrastracture",
+        "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Domain.Infrastracture\\FindMyDinner.Domain.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\A337318\\.nuget\\packages\\",
+        "outputPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDinner.Domain.Infrastracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A337318\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://maven2.it.volvo.net/repository/sma-nuget/": {},
+          "http://nexus.it.volvo.net/repository/drs-ms-core/": {},
+          "http://nexus.it.volvo.net/repository/nuget-drs-ms": {},
+          "http://nuget.it.volvo.net/api/v2": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mavenqa.got.volvo.net:8443/repository/NVS": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj": {
+                "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj",
+        "projectName": "FindMydinner.Domain.Model",
+        "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\FindMydinner.Domain.Model.csproj",
+        "packagesPath": "C:\\Users\\A337318\\.nuget\\packages\\",
+        "outputPath": "C:\\FineMyDiner\\FindMyDinner\\FindMydinner.Domain.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A337318\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://maven2.it.volvo.net/repository/sma-nuget/": {},
+          "http://nexus.it.volvo.net/repository/drs-ms-core/": {},
+          "http://nexus.it.volvo.net/repository/nuget-drs-ms": {},
+          "http://nuget.it.volvo.net/api/v2": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mavenqa.got.volvo.net:8443/repository/NVS": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

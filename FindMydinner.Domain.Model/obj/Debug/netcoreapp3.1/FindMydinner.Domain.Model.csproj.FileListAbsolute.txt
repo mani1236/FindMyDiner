@@ -1,0 +1,10 @@
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.deps.json
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.dll
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.csprojAssemblyReference.cache
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.AssemblyInfoInputs.cache
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.AssemblyInfo.cs
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.runtimeconfig.json
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.runtimeconfig.dev.json
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.dll
+C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb

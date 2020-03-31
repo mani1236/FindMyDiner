@@ -1,0 +1,11 @@
+{
+  {
+    "DatabaseOptions": {
+      "MaxRetryDelay": 100,
+      "MaxRetryCount": 8,
+      "TransientErrors": [ 916, 207, 229, 208, 11001 ],
+      "ConnectionString": "Server=INBLRWIT241492\\SQLEXPRESS;Database=FindMyDinner;Trusted_Connection=True;"
+    }
+  }
+}
+s
