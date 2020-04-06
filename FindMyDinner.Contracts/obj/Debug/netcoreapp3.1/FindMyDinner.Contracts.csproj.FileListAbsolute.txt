@@ -11,3 +11,17 @@ C:\FineMyDiner\FindMyDinner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindM
 C:\FineMyDiner\FindMyDinner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.csproj.CopyComplete
 C:\FineMyDiner\FindMyDinner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.dll
 C:\FineMyDiner\FindMyDinner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.pdb
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMyDinner.Contracts.deps.json
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMyDinner.Contracts.dll
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMyDinner.Contracts.pdb
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMyDinner.Domain.Infrastracture.dll
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.dll
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMyDinner.Domain.Infrastracture.pdb
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.dll
+C:\Users\Administrator\Source\Repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.pdb
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMyDinner.Contracts\obj\Debug\netcoreapp3.1\FindMyDinner.Contracts.csproj.CoreCompileInputs.cache

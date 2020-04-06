@@ -8,3 +8,15 @@ C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\Fi
 C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb
 C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.dll
 C:\FineMyDiner\FindMyDinner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.deps.json
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.runtimeconfig.json
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.dll
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\bin\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.dll
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.pdb
+C:\Users\Administrator\source\repos\mani1236\FindMyDiner\FindMydinner.Domain.Model\obj\Debug\netcoreapp3.1\FindMydinner.Domain.Model.genruntimeconfig.cache

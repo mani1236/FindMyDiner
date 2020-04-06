@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FindMyDinner",
+    "\\FindMyDinner.Contracts",
+    "\\FindMyDinner.Contracts\\Models",
+    "\\FindMydinner.Domain.Model",
+    "\\FindMydinner.Domain.Model\\Entities",
+    "\\FindMyDinner\\Controllers",
+    "\\FindMyDinner\\Dependencies"
+  ],
+  "SelectedNode": "\\FindMyDinner\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

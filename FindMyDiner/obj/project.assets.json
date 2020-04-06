@@ -4584,36 +4584,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\A337318\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FineMyDiner\\FindMyDinner\\FindMyDiner\\FindMyDiner.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\mani1236\\FindMyDiner\\FindMyDiner\\FindMyDiner.csproj",
       "projectName": "FindMyDiner",
-      "projectPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDiner\\FindMyDiner.csproj",
-      "packagesPath": "C:\\Users\\A337318\\.nuget\\packages\\",
-      "outputPath": "C:\\FineMyDiner\\FindMyDinner\\FindMyDiner\\obj\\",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\mani1236\\FindMyDiner\\FindMyDiner\\FindMyDiner.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\mani1236\\FindMyDiner\\FindMyDiner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\A337318\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://maven2.it.volvo.net/repository/sma-nuget/": {},
-        "http://nexus.it.volvo.net/repository/drs-ms-core/": {},
-        "http://nexus.it.volvo.net/repository/nuget-drs-ms": {},
-        "http://nuget.it.volvo.net/api/v2": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://mavenqa.got.volvo.net:8443/repository/NVS": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -4657,7 +4653,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

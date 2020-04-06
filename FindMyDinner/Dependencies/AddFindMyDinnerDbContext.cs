@@ -11,32 +11,32 @@ namespace FindMyDinner.Dependencies
 {
     public static partial class ServiceCollectionExtensions
     {
-        public static IServiceCollection AddFindMyDinnerDbContext(this IServiceCollection @this)
-        {
-            var options = @this.BuildServiceProvider().GetService<DbContextOptions>();
-            string ConnectionString = "Server=INBLRWIT241492\\SQLEXPRESS;Database=FindMyDinner;Trusted_Connection=True;";
-            var MaxRetryCount = "";
-            var MaxRetryDelay = "";
-            var TransientErrors = "";
-            @this.AddEntityFrameworkSqlServer();
-            //@this.AddEntityFrameworkProxies(); need to check 
-           @this.AddDbContext<FindMyDinnerContext>((provider, builder) =>{
+        //public static IServiceCollection AddFindMyDinnerDbContext(this IServiceCollection @this)
+        //{
+        //    var options = @this.BuildServiceProvider().GetService<DbContextOptions>();
+        //    string ConnectionString = "Server=INBLRWIT241492\\SQLEXPRESS;Database=FindMyDinner;Trusted_Connection=True;";
+        //    var MaxRetryCount = "";
+        //    var MaxRetryDelay = "";
+        //    var TransientErrors = "";
+        //    @this.AddEntityFrameworkSqlServer();
+        //    //@this.AddEntityFrameworkProxies(); need to check 
+        //   @this.AddDbContext<FindMyDinnerContext>((provider, builder) =>{
 
-               builder                     
-                      .UseSqlServer(
-                          options.ConnectionString,
-                          context =>
-                          {
-                              context.EnableRetryOnFailure(
-                                  options.MaxRetryCount,
-                                  TimeSpan.FromMilliseconds(options.MaxRetryDelay),
-                                  options.TransientErrors);
-                          })
-                         .UseInternalServiceProvider(provider)
-                    .ConfigureWarnings(warning => warning.Throw(RelationalEventId.QueryClientEvaluationWarning));
+        //       builder                     
+        //              .UseSqlServer(
+        //                  options.ConnectionString,
+        //                  context =>
+        //                  {
+        //                      context.EnableRetryOnFailure(
+        //                          options.MaxRetryCount,
+        //                          TimeSpan.FromMilliseconds(options.MaxRetryDelay),
+        //                          options.TransientErrors);
+        //                  })
+        //                 .UseInternalServiceProvider(provider)
+        //            .ConfigureWarnings(warning => warning.Throw(RelationalEventId.QueryClientEvaluationWarning));
 
-           });
-            return @this;
-        }
+        //   });
+        //    return @this;
+        //}
     }
 }
